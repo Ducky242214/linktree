@@ -1,37 +1,43 @@
-Linktree hecho por mi desde cero.
+# 🌟 Linktree Personalizado | by Ducky  
 
-✨ Demo en vivo: [Agrega tu enlace aquí]
+¡Hola! 👋 Soy **Ducky**, y este es mi primer proyecto oficial en GitHub: un **Linktree** desarrollado desde cero con HTML y CSS.  
 
-🛠️ Tecnologías Usadas
-HTML5
+✨ **Demo en vivo:** [Ver proyecto](https://ducky242214.github.io/linktree/) 
 
-CSS3 
+## 🛠️ Tecnologías  
+- **HTML5**  
+- **CSS3**
+- **Diseño responsive** 📱➡️💻  
+- **Git & GitHub** (¡Mi primer repo! 🎉)  
 
-Diseño Responsive (Adaptable a móviles)
+## 🚀 ¿Cómo usarlo?  
+1. Clona el repositorio:  
+```bash
+git clone https://github.com/Ducky242214/linktree.git```
+**Abre** el achivo ```index.html``` en tu navegador
+## 📸 Capturas de Pantalla
+| Vista normal | En hover |
+|-------------|---------------|
+| ![image](https://github.com/user-attachments/assets/741ef932-7008-474f-8fa2-ad3b49c16280)
+ | ![image](https://github.com/user-attachments/assets/1a235341-9edf-479e-8333-b2c678911557)
+ |
 
-Git & GitHub (¡Mi primer repositorio!)
+## 💡 ¿Por qué este proyecto?
+- **Aprendizaje**: Para practicar frontend
+- **Originalidad**: Código 100% propio
+- **Creatividad**: ¡Diseño personalizado! 🎨
 
-🎯 Características
-✅ Interfaz limpia y moderna
-✅ Totalmente responsive
-✅ Fácil de personalizar
-✅ Hecho desde cero (¡sin plantillas!)
+## 🌈 Características
+✅ Efectos interactivos  
+✅ Paleta de colores única  
+✅ Mobile-first  
+✅ Código limpio
 
-🚀 Cómo Usarlo
-Clona el repositorio
+## 🤝 ¿Contribuir?
+¡Abre un [PR](https://github.com/Ducky242214/linktree/pulls) o [Issue](https://github.com/Ducky242214/linktree/issues)!
 
-bash
-Copy
-git clone https://github.com/tu-usuario/tu-repositorio.git  
-Abre index.html en tu navegador — ¡así de simple!
+## 📜 Licencia
+MIT © [Ducky](https://github.com/Ducky242214)
 
-📸 Captura de Pantalla
-Vista previa
-
-💡 ¿Por qué lo hice?
-Como mi primer proyecto en GitHub, quise recrear una página estilo Linktree para practicar mis habilidades en frontend — ¡todo codificado manualmente, sin atajos!
-
-🙏 Créditos
-Inspirado en Frontend Mentor
-
-Hecho por Ducky
+## 💌 Contacto
+📧 [dynamicalducky22@gmail.com](mailto:dynamicalducky22@gmail.com)  
