@@ -12,15 +12,15 @@
 
 ## 🚀 ¿Cómo usarlo?  
 1. Clona el repositorio:  
-```bash
-git clone https://github.com/Ducky242214/linktree.git```
+bash
+git clone https://github.com/Ducky242214/linktree.git
 **Abre** el achivo ```index.html``` en tu navegador
 ## 📸 Capturas de Pantalla
 | Vista normal | En hover |
 |-------------|---------------|
-| ![image](https://github.com/user-attachments/assets/741ef932-7008-474f-8fa2-ad3b49c16280)
- | ![image](https://github.com/user-attachments/assets/1a235341-9edf-479e-8333-b2c678911557)
- |
+ ![image](https://github.com/user-attachments/assets/741ef932-7008-474f-8fa2-ad3b49c16280)
+   ![image](https://github.com/user-attachments/assets/1a235341-9edf-479e-8333-b2c678911557)
+ 
 
 ## 💡 ¿Por qué este proyecto?
 - **Aprendizaje**: Para practicar frontend
