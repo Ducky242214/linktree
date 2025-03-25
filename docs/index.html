@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="Ducky" content="Made By Ducky">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="design/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+  <title>Social Link profile by Ducky</title>
+  <link rel="icon"  type="image/x-icon" href="assets/imagenes/favicon.png">
+</head>
+<body>
+<div class="repositorio">
+  <img src="assets/imagenes/Ducky.PNG" alt="Una foto mía">
+  <br>
+  <strong>Ducky</strong>
+  <br>
+  <div class="Barcelona">Barcelona, España</div>
+  <br>
+  <p>Learning to do something</p>
+  <br>
+  <div class="Links">
+    <a href="https://github.com/Ducky242214">GitHub</a> 
+    <a href="https://www.instagram.com/_.aleeromeeroo._/">Instagram</a>
+    <a href="https://discord.gg/cXDe5rz9PD">Discord</a>
+    <a href="https://www.tiktok.com/@_.aleeromeeroo._">TikTok</a>
+  </div>
+</div>
+</body>
+<script  type="module">
+  import { animate, hover } from "https://cdn.jsdelivr.net/npm/motion@12/+esm"
+
+hover("a", (element) => {
+    animate(element, { scale: 1.3 })
+
+    return () => animate(element, { scale: 1 })
+})
+</script>
+</html>
